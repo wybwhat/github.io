@@ -1,7 +1,3 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/logo.png)
-
 ## Yanbo Wang (王彦博)
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+王彦博，2017年6月博士毕业于上海交通大学计算机科学与工程系，目前研究方向为图模型与图表示学习以及这些方法在多生物组学中的应用。
